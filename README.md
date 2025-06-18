@@ -2,6 +2,7 @@
 
 ### Olá 👋, meu nome é Nathalia!
 
+<!--
 <br>
 <p>Trabalhando na eCondos Sistemas<br/> Eu sou analista de QA</p>
 </br>
