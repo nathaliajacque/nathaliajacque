@@ -2,9 +2,9 @@
 
 ### Olá 👋, meu nome é Nathalia!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Nathalia&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
+<br>
 <p>Trabalhando na eCondos Sistemas<br/> Eu sou analista de QA</p>
+</br>
 
 <p align="left">
   💌 Para entrar em contato comigo: ⤵️
